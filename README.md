@@ -1,2 +1,2 @@
-# Git-Training
+# Git-Training.
 Training for begginers
